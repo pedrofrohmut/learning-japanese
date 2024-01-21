@@ -1,0 +1,6 @@
+# LibreOffice Writer temporary files
+*.~lock.*
+*.~lock#
+*.bak
+*.BAK
+*~
